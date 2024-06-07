@@ -1,0 +1,14 @@
+.form-1{
+    display: flex;
+    background-color: #1F2544;
+    height: 50vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-1>input,button{
+    margin: 2vh;
+    padding: .5vw 1vw;
+    border-radius: 5px;
+}

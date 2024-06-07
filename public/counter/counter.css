@@ -1,0 +1,16 @@
+.counter{
+    display: flex;
+}
+.count {
+        padding: 5vh;
+        height: 10vh;
+        width: 10vh;
+        border-radius: 50%;
+        /* background: #000; */
+        background-color: rgba(0, 0, 0, 0.899);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        
+}
